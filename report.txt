@@ -1,0 +1,139 @@
+Info: Processing symbol 'J1:Imported Parts:Display_128x64_096_I2C'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:Imported Parts:XIAO-ESP32-C3-SMD'.
+Info: Processing symbol 'U2:Sensor:Aosong_DHT11_5.5x12.0_P2.54mm'.
+Changed J1 value from Display_128x64 to Conn_01x04_Pin.
+Updated J1 symbol association from  to /4d49e5c7-3d52-48db-85a0-105b401733da.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Project.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net +3.3V.
+Connected J1 pin 2 to +3.3V.
+Add net /SCL.
+Connected J1 pin 3 to /SCL.
+Add net /SDA.
+Connected J1 pin 4 to /SDA.
+Add net GND.
+Connected J1 pin 1 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x08_P2.54mm_Vertical to Conn_01x08_Pin.
+Updated J2 symbol association from  to /8ad91f20-965e-4962-b7d1-71d369e6fd09.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'Project.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 2 to GND.
+Connected J2 pin 3 to /SCL.
+Add net unconnected-(J2-Pin_8-Pad8).
+Connected J2 pin 8 to unconnected-(J2-Pin_8-Pad8).
+Add net unconnected-(J2-Pin_6-Pad6).
+Connected J2 pin 6 to unconnected-(J2-Pin_6-Pad6).
+Connected J2 pin 4 to /SDA.
+Connected J2 pin 1 to +3.3V.
+Add net unconnected-(J2-Pin_5-Pad5).
+Connected J2 pin 5 to unconnected-(J2-Pin_5-Pad5).
+Add net unconnected-(J2-Pin_7-Pad7).
+Connected J2 pin 7 to unconnected-(J2-Pin_7-Pad7).
+Updated J2 unit metadata.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal to 10k.
+Updated R1 symbol association from  to /cd244e2c-3987-4c22-815a-af0e6280be8b.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'Project.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /DH11 DATA.
+Connected R1 pin 2 to /DH11 DATA.
+Connected R1 pin 1 to +3.3V.
+Updated R1 unit metadata.
+Added SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW1 symbol association from  to /8d2ed4dc-0d43-4d5e-ac31-5f8909b3011d.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'Project.kicad_sch'.
+Add net /GPIO2.
+Connected SW1 pin 2 to /GPIO2.
+Connected SW1 pin 1 to GND.
+Updated SW1 unit metadata.
+Added SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW2 symbol association from  to /759be2ac-46fa-466f-91b5-909bda2172b4.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'Project.kicad_sch'.
+Connected SW2 pin 1 to GND.
+Add net /GPIO3.
+Connected SW2 pin 2 to /GPIO3.
+Updated SW2 unit metadata.
+Added J1 (footprint 'Imported Parts:Display_128x64_096_I2C').
+Added U1 (footprint 'Imported Parts:XIAO-ESP32-C3-SMD').
+Changed REF** reference designator to U1.
+Changed U1 value from Val** to XIAO-ESP32-C3-SMD.
+Updated U1 symbol association from  to /07834be7-a644-4963-882b-7f5900d49bd9.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Project.kicad_sch'.
+Add net unconnected-(U1-VBAT-Pad21).
+Connected U1 pin 21 to unconnected-(U1-VBAT-Pad21).
+Add net unconnected-(U1-D4/MTCK-Pad20).
+Connected U1 pin 20 to unconnected-(U1-D4/MTCK-Pad20).
+Add net unconnected-(U1-D8-Pad9).
+Connected U1 pin 9 to unconnected-(U1-D8-Pad9).
+Connected U1 pin 13 to GND.
+Connected U1 pin 2 to /DH11 DATA.
+Add net unconnected-(U1-D9/BOOT-Pad10).
+Connected U1 pin 10 to unconnected-(U1-D9/BOOT-Pad10).
+Add net unconnected-(U1-EN-Pad17).
+Connected U1 pin 17 to unconnected-(U1-EN-Pad17).
+Connected U1 pin 4 to /GPIO3.
+Connected U1 pin 6 to /SDA.
+Add net unconnected-(U1-D6-Pad7).
+Connected U1 pin 7 to unconnected-(U1-D6-Pad7).
+Connected U1 pin 12 to +3.3V.
+Add net unconnected-(U1-D5/MTDO-Pad16).
+Connected U1 pin 16 to unconnected-(U1-D5/MTDO-Pad16).
+Add net unconnected-(U1-D10-Pad11).
+Connected U1 pin 11 to unconnected-(U1-D10-Pad11).
+Connected U1 pin 18 to GND.
+Connected U1 pin 5 to /SCL.
+Add net unconnected-(U1-D0-Pad1).
+Connected U1 pin 1 to unconnected-(U1-D0-Pad1).
+Connected U1 pin 3 to /GPIO2.
+Add net +5V.
+Connected U1 pin 14 to +5V.
+Add net unconnected-(U1-D3/MTDI-Pad15).
+Connected U1 pin 15 to unconnected-(U1-D3/MTDI-Pad15).
+Add net unconnected-(U1-GND-Pad22).
+Connected U1 pin 22 to unconnected-(U1-GND-Pad22).
+Add net unconnected-(U1-D2/MTMS-Pad19).
+Connected U1 pin 19 to unconnected-(U1-D2/MTMS-Pad19).
+Add net unconnected-(U1-D7-Pad8).
+Connected U1 pin 8 to unconnected-(U1-D7-Pad8).
+Updated U1 unit metadata.
+Changed Display 128x64 0.96" I2C reference designator to J1.
+Added U2 (footprint 'Sensor:Aosong_DHT11_5.5x12.0_P2.54mm').
+Changed REF** reference designator to U2.
+Changed U2 value from Aosong_DHT11_5.5x12.0_P2.54mm to DHT11.
+Updated U2 symbol association from  to /349f3b38-a46d-4a13-a4fe-445b8281774d.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'Project.kicad_sch'.
+Updated U2 footprint filters to 'Aosong*DHT11*5.5x12.0*P2.54mm*'.
+Connected U2 pin 1 to +3.3V.
+Connected U2 pin 4 to GND.
+Add net unconnected-(U2-NC-Pad3).
+Connected U2 pin 3 to unconnected-(U2-NC-Pad3).
+Connected U2 pin 2 to /DH11 DATA.
+Updated U2 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
